@@ -8,15 +8,6 @@
 Um Checkout de produto em modelo americano de forma básico com utilização em html como base
   </h1>
 
-
-<h1 align="center">
-    IFOOD CLONE - Felipe Holanda
-</h1>
-
-<p align="center">
-    Aplicativo criado no curso de react native da digital innovation one criando uma api em Java Script
-</p>
-
 <p aling="center">Esse projeto...</p>
 <a href="#EndPoints">EndePoints</a> •
 <a href="#Tecnologias 🚀">Tecnologias</a> •
