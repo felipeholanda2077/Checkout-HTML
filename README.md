@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center"> Checkout-HTML</h1>
-<h3 aling="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
+<h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
-<p aling="center">Esse projeto...</p>
+<p align="center">Esse projeto...</p>
 <a href="#EndPoints">EndePoints</a> •
 <a href="#Tecnologias 🚀">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
