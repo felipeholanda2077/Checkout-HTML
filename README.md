@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"> Checkout-HTML
-Um Checkout de produto em modelo americano de forma básico com utilização em html como base
+<p>Um Checkout de produto em modelo americano de forma básico com utilização em html como base<p>
   </h1>
 
 <p aling="center">Esse projeto...</p>
