@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"> Checkout-HTML</h1>
-<p aling="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</p>
+<h3 aling="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
 <p aling="center">Esse projeto...</p>
 <a href="#EndPoints">EndePoints</a> •
