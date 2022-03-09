@@ -8,9 +8,9 @@
 <h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
 <p align="center">Esse projeto...</p>
-<a href="#EndPoints">EndePoints</a> •
-<a href="#Tecnologias 🚀">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
+<a align="center" href="#EndPoints">EndePoints</a> •
+<a align="center" href="#Tecnologias 🚀">Tecnologias</a> •
+<a align="center" href="#Ferramentas">Ferramentas</a>
 
 <br>
 <br>
