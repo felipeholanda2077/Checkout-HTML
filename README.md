@@ -8,7 +8,7 @@
 <h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
 <p align="center">Índice...</p>
-<p align="center"><a href="#EndPoints">EndePoints</a> •
+<p align="center"><a href="#Sobre">Sobre</a> •
 <a href="#Imagem">Imagem</a> • 
 <a href="#Tecnologias">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
