@@ -14,7 +14,9 @@
 
 <br>
 
-<h1 align="center"> Checkout-HTML</h1>
+<h1 align="center">Sobre o Projeto</h1>
+
+<h3 align="center"> Checkout-HTML</h3>
 <h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
 
