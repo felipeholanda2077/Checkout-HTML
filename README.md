@@ -4,8 +4,7 @@
    </a>
 </p>
 
-<h1 align="center"> Checkout-HTML</h1>
-<h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
+<br>
 
 <p align="center">Índice...</p>
 <p align="center"><a href="#Sobre">Sobre</a> •
@@ -14,5 +13,9 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
-<br>
 
+<h1 align="center"> Checkout-HTML</h1>
+<h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
+
+
+<br>
