@@ -19,5 +19,19 @@
 <h3 align="center"> Checkout-HTML</h3>
 <h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
+<br><br>
+
+<h1 align="center">Imagem</h1>
+
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="" />
+</h1>
 
 <br>
+
+ ### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **HTML**
+  - [x] **CSS**
