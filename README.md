@@ -19,7 +19,7 @@
 <h3 align="center"> Checkout-HTML</h3>
 <h3 align="center">Um Checkout de produto em modelo americano de forma básico com utilização em html como base</h3>
 
-<br><br>
+<br>
 
 <h1 align="center">Imagem</h1>
 
